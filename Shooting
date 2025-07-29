@@ -1,0 +1,30 @@
+```python
+# Guess what? I used Copilot hihi 😏
+# Perplexity APM 2025 Application
+
+class AspiringAPM:
+    def __init__(self, name, dream):
+        self.name = name
+        self.dream = dream
+        self.status = "Applicant"
+    
+    def apply_to_perplexity(self):
+        try:
+            print(f"{self.name} is ready to debug, ship, and iterate with the Perplexity team!")
+            self.status = "Future APM?"  # fingers crossed
+        except Exception as e:
+            print("Oops! Something went wrong... But persistence is key.")
+
+if __name__ == "__main__":
+    candidate = AspiringAPM(name="Wangui Maina", dream="Join Perplexity APM 2025 🚀")
+    candidate.apply_to_perplexity()
+    print(f"Status: {candidate.status}")
+    print("Let’s build the future of AI together! #ReadyToShip #APM2025")
+```
+
+Dear Perplexity Hiring Team,
+
+Just like the code above, I’m ready to jump in, learn fast, and build with Perplexity as part of your APM 2025 class. Let’s ship great products together!
+
+Best,  
+Wangui Maina
